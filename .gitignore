@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# package tarball
+*.tgz
+
+# tests
+*.test.ts
+db/
+
+dist/
+.cache/
+create-beaver/config/
+create-beaver/templates/
